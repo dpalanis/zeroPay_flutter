@@ -1,5 +1,7 @@
 # zeroPay_flutter
 
+V0.1 - ITR-1 Support:
+
 UI - Home Page:
 
 <img width="3010" height="1644" alt="image" src="https://github.com/user-attachments/assets/5574f3ad-a5f6-49e2-a600-d01171702a30" />
